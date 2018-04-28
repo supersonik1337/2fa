@@ -3,6 +3,7 @@
 echo "The original script was created by frk!"
 echo "The repository can be found here: https://github.com/frk1/steamhourboostv2"
 echo "This installation script was created by dash199t!"
+echo "modified for personal use by supersonik1337"
 
 sleep 6
 
